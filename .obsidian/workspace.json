@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "c78bb04ae102c102",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c1dcc1343b1f95f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "370f12aa0b39ad31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML, CSS, JS Exercise.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f9ce047d6f0be90",
+    "type": "split",
+    "children": [
+      {
+        "id": "03c878b8c9765879",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58948202c372cb78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df418cadcc387539",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9a1c99af6a4807f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b4bf3d7cde879caf",
+    "type": "split",
+    "children": [
+      {
+        "id": "38235141620df919",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eed4c7e6a4033c7a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HTML, CSS, JS Exercise.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55271679e5fc26e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HTML, CSS, JS Exercise.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc194f863304e21f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7bba82e27e18efb4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HTML, CSS, JS Exercise.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "370f12aa0b39ad31",
+  "lastOpenFiles": [
+    "HTML, CSS, JS/Learning JAVASCRIPT(JS).md",
+    "HTML, CSS, JS/Learning HTML.md",
+    "HTML, CSS, JS/Learning CSS.md",
+    "HTML, CSS, JS/HTML, CSS, JS reference.md",
+    "Client, Server, Git/HTTP Request.md",
+    "Client, Server, Git/Client & Server, Git referrence.md",
+    "Client, Server, Git/GIT.md",
+    "Client, Server, Git/Client & Server.md",
+    "Clean code, Design pattern refference/Package Manager (npm, Yarn).md",
+    "Img-example/trunk-based.png",
+    "Img-example/Pasted image 20230811115418.png",
+    "Img-example/Pasted image 20230804223849.png",
+    "Img-example/jetbrains-space-git-flow-1.png",
+    "Img-example/github-flow.png",
+    "Img-example/c67fcfc4-9a2c-4fdc-9c2b-0764e72eb338.png",
+    "Img-example/ba02427d-c034-4593-b6d9-ff91201d33c0.png",
+    "Img-example/a9620b86-cea6-4a9a-aa77-f8d16654a546.png",
+    "Img-example/984336e9-d8f3-4b06-955e-0f54144eb5dc.png",
+    "Img-example/67f0f195-8c8b-4622-b613-3564ed21ca86.png",
+    "Img-example",
+    "Clean code, Design pattern refference.md",
+    "Clean code, Design pattern refference/Design Pattern.md",
+    "Untitled.md",
+    "Clean code, Design pattern refference/Clean code.md",
+    "Clean code, Design pattern refference/Clean code, Design pattern refference.md",
+    "Learning Git commit, Git-flow/Git Flow.md",
+    "Learning Git commit, Git-flow/Conventional commit.md",
+    "Learning Git commit, Git-flow",
+    "Clean code, Design pattern refference",
+    "New folder",
+    "HTML, CSS, JS Exercise.md",
+    "learning Git commit, Git-flow/Git Flow.md",
+    "learning Git commit, Git-flow/Conventional commit.md",
+    "learning Git commit coven/Conventional commit.md",
+    "learning Git commit, Git-flow",
+    "Git commit/Git Flow.md",
+    "learning Git commit coven/Git Flow.md",
+    "learning Git commit coven",
+    "Git commit.zip",
+    "Git commit/Conventional commit.md",
+    "IMG EX/jetbrains-space-git-flow-1.png.opdownload",
+    "IMG EX/trunk-based.png.opdownload",
+    "IMG EX/github-flow.png.opdownload",
+    "Client & Server, Git referrence.md",
+    "Learning HTML.md",
+    "Untitled.canvas"
+  ]
+}
