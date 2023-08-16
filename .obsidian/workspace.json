@@ -11,12 +11,8 @@
             "id": "370f12aa0b39ad31",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clean_code_ Design_pattern_refference/Design_Pattern.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clean_code_ Design_pattern_refference/Design_Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clean_code_ Design_pattern_refference/Design_Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Clean_code_ Design_pattern_refference/Design_Pattern.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,52 +141,52 @@
   },
   "active": "370f12aa0b39ad31",
   "lastOpenFiles": [
+    "asset/img_example/trunk-based.png",
+    "asset/img_example/Pasted image 20230811115418.png",
+    "asset/img_example/Pasted image 20230804223849.png",
+    "asset/img_example/jetbrains-space-git-flow-1.png",
+    "asset/img_example/github-flow.png",
+    "asset/img_example/c67fcfc4-9a2c-4fdc-9c2b-0764e72eb338.png",
+    "asset/img_example/ba02427d-c034-4593-b6d9-ff91201d33c0.png",
+    "asset/img_example/a9620b86-cea6-4a9a-aa77-f8d16654a546.png",
+    "asset/img_example/984336e9-d8f3-4b06-955e-0f54144eb5dc.png",
+    "asset/img_example/67f0f195-8c8b-4622-b613-3564ed21ca86.png",
+    "asset/img_example/481911b3-8171-41f8-bf45-41098e6e8f57.png",
+    "asset/img_example",
+    "asset/img-example",
+    "asset",
+    "New folder",
+    "project_document/html_css_javascript_refference/learning_javascript.md",
+    "project_document/html_css_javascript_refference/learning_html.md",
+    "project_document/html_css_javascript_refference/learning_css.md",
+    "project_document/html_css_javascript_refference/html_css_javascript_reference.md",
+    "project_document/html_css_javascript_refference",
+    "project_document/gitcommit_gitflow_refference/git_flow.md",
+    "project_document/gitcommit_gitflow_refference/conventional_commit.md",
+    "project_document/gitcommit_gitflow_refference",
+    "project_document/client_server_git_refference/http_request.md",
+    "project_document/client_server_git_refference/git.md",
+    "project_document/client_server_git_refference/client_server_git_referrence.md",
+    "project_document/client_server_git_refference/client_server.md",
+    "project_document/client_server_git_refference",
+    "project_document/clean_code_ design_pattern_refference/package_manager.md",
+    "project_document/clean_code_ design_pattern_refference/design_Pattern.md",
+    "project_document/clean_code_ design_pattern_refference/clean_code_design_pattern_refference.md",
+    "project_document/clean_code_ design_pattern_refference/clean_code.md",
+    "project_document/clean_code_ design_pattern_refference/2. Singleton Pattern.md",
+    "project_document/clean_code_ design_pattern_refference",
+    "project_document/README.md",
+    "project_document",
+    "2. Singleton Pattern.md",
+    "clean_code_ design_pattern_refference/2. Singleton Pattern.md",
+    "Clean_code_ Design_pattern_refference/Design_Pattern.md",
     "Clean_code_ Design_pattern_refference/Package_Manager (npm, Yarn).md",
     "Clean_code_ Design_pattern_refference/Clean_code_Design_pattern_refference.md",
     "HTML_CSS_JS_refference/Learning_JAVASCRIPT(JS).md",
     "HTML_CSS_JS_refference/Learning_CSS.md",
     "HTML_CSS_JS_refference/HTML_CSS_JS_reference.md",
     "GitCommit_GitFlow_refference/Conventional_commit.md",
-    "GitCommit_GitFlow_refference/Git_Flow.md",
-    "Client_Server_Git_refference/HTTP_request.md",
-    "Client_Server_Git_refference/Client_Server_Git_referrence.md",
-    "Client_Server_Git_refference/Client_Server.md",
-    "Clean_code_ Design_pattern_refference/Design_Pattern.md",
-    "Clean_code_ Design_pattern_refference/Clean_code.md",
-    "HTML, CSS, JS/Learning JAVASCRIPT(JS).md",
-    "HTML, CSS, JS/Learning HTML.md",
-    "HTML, CSS, JS/Learning CSS.md",
-    "HTML, CSS, JS/HTML, CSS, JS reference.md",
-    "Client, Server, Git/HTTP Request.md",
-    "Client, Server, Git/Client & Server, Git referrence.md",
-    "Client, Server, Git/GIT.md",
-    "Client, Server, Git/Client & Server.md",
-    "Clean code, Design pattern refference/Package Manager (npm, Yarn).md",
-    "Img-example/trunk-based.png",
-    "Img-example/Pasted image 20230811115418.png",
-    "Img-example/Pasted image 20230804223849.png",
-    "Img-example/jetbrains-space-git-flow-1.png",
-    "Img-example/github-flow.png",
-    "Img-example/c67fcfc4-9a2c-4fdc-9c2b-0764e72eb338.png",
-    "Img-example/ba02427d-c034-4593-b6d9-ff91201d33c0.png",
-    "Img-example/a9620b86-cea6-4a9a-aa77-f8d16654a546.png",
-    "Img-example/984336e9-d8f3-4b06-955e-0f54144eb5dc.png",
-    "Img-example/67f0f195-8c8b-4622-b613-3564ed21ca86.png",
     "Img-example",
-    "Clean code, Design pattern refference.md",
-    "Clean code, Design pattern refference/Design Pattern.md",
-    "Untitled.md",
-    "Clean code, Design pattern refference/Clean code.md",
-    "Clean code, Design pattern refference/Clean code, Design pattern refference.md",
-    "Learning Git commit, Git-flow",
-    "Clean code, Design pattern refference",
-    "New folder",
-    "learning Git commit, Git-flow",
-    "learning Git commit coven",
-    "Git commit.zip",
-    "IMG EX/jetbrains-space-git-flow-1.png.opdownload",
-    "IMG EX/trunk-based.png.opdownload",
-    "IMG EX/github-flow.png.opdownload",
     "Untitled.canvas"
   ]
 }
