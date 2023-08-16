@@ -11,8 +11,12 @@
             "id": "1e42058a1d07109f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "clean_code_ design_pattern_refference/singleton_pattern.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "465247683fc70ca4",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "clean_code_ design_pattern_refference/singleton_pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "clean_code_ design_pattern_refference/singleton_pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "clean_code_ design_pattern_refference/singleton_pattern.md"
+              }
             }
           }
         ]
@@ -141,7 +148,9 @@
   },
   "active": "1e42058a1d07109f",
   "lastOpenFiles": [
-    "clean_code_ design_pattern_refference/2. Singleton Pattern.md",
-    "clean_code_ design_pattern_refference/singleton_pattern.md"
+    "clean_code_ design_pattern_refference/package_manager.md",
+    "clean_code_ design_pattern_refference/package_manager_npm_yarn.md",
+    "clean_code_ design_pattern_refference/singleton_pattern.md",
+    "clean_code_ design_pattern_refference/2. Singleton Pattern.md"
   ]
 }
