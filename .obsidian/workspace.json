@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML, CSS, JS Exercise.md",
+                "file": "Clean_code_ Design_pattern_refference/Design_Pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b4bf3d7cde879caf",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML, CSS, JS Exercise.md",
+                "file": "Clean_code_ Design_pattern_refference/Design_Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML, CSS, JS Exercise.md",
+                "file": "Clean_code_ Design_pattern_refference/Design_Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML, CSS, JS Exercise.md"
+                "file": "Clean_code_ Design_pattern_refference/Design_Pattern.md"
               }
             }
           }
@@ -148,6 +149,18 @@
   },
   "active": "370f12aa0b39ad31",
   "lastOpenFiles": [
+    "Clean_code_ Design_pattern_refference/Package_Manager (npm, Yarn).md",
+    "Clean_code_ Design_pattern_refference/Clean_code_Design_pattern_refference.md",
+    "HTML_CSS_JS_refference/Learning_JAVASCRIPT(JS).md",
+    "HTML_CSS_JS_refference/Learning_CSS.md",
+    "HTML_CSS_JS_refference/HTML_CSS_JS_reference.md",
+    "GitCommit_GitFlow_refference/Conventional_commit.md",
+    "GitCommit_GitFlow_refference/Git_Flow.md",
+    "Client_Server_Git_refference/HTTP_request.md",
+    "Client_Server_Git_refference/Client_Server_Git_referrence.md",
+    "Client_Server_Git_refference/Client_Server.md",
+    "Clean_code_ Design_pattern_refference/Design_Pattern.md",
+    "Clean_code_ Design_pattern_refference/Clean_code.md",
     "HTML, CSS, JS/Learning JAVASCRIPT(JS).md",
     "HTML, CSS, JS/Learning HTML.md",
     "HTML, CSS, JS/Learning CSS.md",
@@ -173,26 +186,15 @@
     "Untitled.md",
     "Clean code, Design pattern refference/Clean code.md",
     "Clean code, Design pattern refference/Clean code, Design pattern refference.md",
-    "Learning Git commit, Git-flow/Git Flow.md",
-    "Learning Git commit, Git-flow/Conventional commit.md",
     "Learning Git commit, Git-flow",
     "Clean code, Design pattern refference",
     "New folder",
-    "HTML, CSS, JS Exercise.md",
-    "learning Git commit, Git-flow/Git Flow.md",
-    "learning Git commit, Git-flow/Conventional commit.md",
-    "learning Git commit coven/Conventional commit.md",
     "learning Git commit, Git-flow",
-    "Git commit/Git Flow.md",
-    "learning Git commit coven/Git Flow.md",
     "learning Git commit coven",
     "Git commit.zip",
-    "Git commit/Conventional commit.md",
     "IMG EX/jetbrains-space-git-flow-1.png.opdownload",
     "IMG EX/trunk-based.png.opdownload",
     "IMG EX/github-flow.png.opdownload",
-    "Client & Server, Git referrence.md",
-    "Learning HTML.md",
     "Untitled.canvas"
   ]
 }
